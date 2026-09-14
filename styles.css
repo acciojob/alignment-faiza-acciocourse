@@ -19,7 +19,7 @@
         width: 95%;
     }
 
-    #table-1 .center {
+     #table-1 td:nth-child(2) {
         text-align: center;
     }
 
